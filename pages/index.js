@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Athype Gateway" />
         <p className="description">
-          "This site is a gateway to Athype's communities" <code>pages/index.js</code>
+          This site is a gateway to Athype's communities
         </p>
       </main>
 
